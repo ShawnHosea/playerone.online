@@ -1,2 +1,0 @@
-# playerone.online
-Begin app
